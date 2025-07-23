@@ -1,0 +1,42 @@
+[
+    {
+        "word": "cat",
+        "image": "./data/images/cat.jpg"
+    },
+    {
+        "word": "dog",
+        "image": "./data/images/dog.jpeg"
+    },
+    {
+        "word": "elephant",
+        "image": "./data/images/elephant.jpg"
+    },
+    {
+        "word": "fish",
+        "image": "./data/images/fish.jpg"
+    },
+    {
+        "word": "lion",
+        "image": "./data/images/lion.jpg"
+    },
+    {
+        "word": "rabbit",
+        "image": "./data/images/rabbit.jpg"
+    },
+    {
+        "word": "turtle",
+        "image": "./data/images/turtle.jpg"
+    },
+    {
+        "word": "bear",
+        "image": "./data/images/bear.jpg"
+    },
+    {
+        "word": "frog",
+        "image": "./data/images/frog.jpg"
+    },
+    {
+        "word": "horse",
+        "image": "./data/images/horse.jpg"
+    }
+]
